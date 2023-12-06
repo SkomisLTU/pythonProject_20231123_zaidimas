@@ -31,7 +31,7 @@ while 1:
         if limit_a < limit_v:
             break
         else:
-            print("labai blogai ivestas diapazonas")
+            print("blogai ivestas diapazonas")
     except:
         print("blogai ivestas diapazonas")
 
